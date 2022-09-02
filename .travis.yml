@@ -1,8 +1,6 @@
 dist: xenial
 group: dev
 language: php
-php:
-  - 7.4.30 
 script:
   - php --version
   - php hello.php
